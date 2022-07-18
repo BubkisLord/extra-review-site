@@ -65,7 +65,7 @@
 class="close" title="Close Modal">&times;</span>
 
   <!-- Modal Content -->
-  <form class="modal-content animate" action="/login.html">
+  <form class="modal-content animate" action="/login.php">
     <FeedbackForm />
   </form>
 </div>
