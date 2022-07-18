@@ -65,7 +65,7 @@
 class="close" title="Close Modal">&times;</span>
 
   <!-- Modal Content -->
-  <form class="modal-content animate" action="/login.html">
+  <form class="modal-content animate" action="/success">
     <div class="imgcontainer">
       <img src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/unknown-512.png" alt="Avatar" class="avatar">
     </div>
