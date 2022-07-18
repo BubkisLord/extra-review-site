@@ -20,3 +20,4 @@
   node_bundler = "esbuild"
 
 [[plugins]]
+  pakage = "netifly-package-one"
