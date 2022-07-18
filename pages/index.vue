@@ -56,12 +56,5 @@
   to {transform: scale(1)}
 }
 </style>
-<!-- Button to open the modal login form -->
-<button onclick="document.getElementById('id01').style.display='block'">Login</button>
-
-<!-- The Modal -->
-<div id="id01" class="modal">
-  <span onclick="document.getElementById('id01').style.display='none'"
-class="close" title="Close Modal">&times;</span>
     <FeedbackForm />
 </div>
