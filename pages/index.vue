@@ -57,4 +57,3 @@
 }
 </style>
     <FeedbackForm />
-</div>
