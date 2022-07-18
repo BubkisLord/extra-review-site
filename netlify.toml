@@ -18,3 +18,5 @@
 
 [functions]
   node_bundler = "esbuild"
+
+[[plugins]]
